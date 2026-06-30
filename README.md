@@ -40,7 +40,8 @@ Sou licenciada em **Informática de Gestão**, focada em unir a lógica de progr
 
 ## 🛠️ Competências Técnicas & Ferramentas
 
-*   **Linguagens & Manipulação de Dados:** Python (Pandas, NumPy), SQL (Modelagem de Dados, Joins, Agrupamentos)
+*   **Linguagens & Manipulação de Dados:** Python (Pandas, NumPy),
+*    SQL (Modelagem de Dados, Joins, Agrupamentos), Power BI, EXCEL
 *   **Visualização de Dados:** Matplotlib, Seaborn
 *   **Conceitos de Negócio:** Análise de Risco, Compliance Bancário, Métricas Financeiras, Segurança Transacional
 *   **Ferramentas & Produtividade:** Git, GitHub, Google Colab
@@ -58,5 +59,5 @@ Sou licenciada em **Informática de Gestão**, focada em unir a lógica de progr
 
 ## 📫 Vamos nos conectar?
 
-*   **LinkedIn:** [Seu Nome](hhttps://www.linkedin.com/in/leia-b-1905b227b/ttps://linkedin.com/in/seu-perfil)
+*   **LinkedIn:** [Leia Beizy](https://www.linkedin.com/in/leia-b-1905b227b/ttps://linkedin.com/in/seu-perfil)
 *   **E-mail:** leiabeizy@gmail.com
